@@ -1,4 +1,4 @@
-1.Modül: Çift yönlü doğrusal bağlı liste,tek yönlü dairesel bağlı liste, dosyaya yazma ve dosyadan okuma. |Asya Bakıcı - 202507012042
+1.Modül: Asya Bakıcı - 202507012042:  Çift yönlü doğrusal bağlı liste,tek yönlü dairesel bağlı liste, dosyaya yazma ve dosyadan okuma.
 
 2.Modül: Efehan Moral - 202507012146: Bağlı liste tabanlı yığın (Stack: Push, Pop, Peek) ve kuyruk (Queue: Enqueue, Dequeue, FIFO listeleme). 
 
