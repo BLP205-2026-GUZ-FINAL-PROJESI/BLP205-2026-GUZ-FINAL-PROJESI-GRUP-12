@@ -1,6 +1,6 @@
 1.Modül: Çift yönlü doğrusal bağlı liste,tek yönlü dairesel bağlı liste, dosyaya yazma ve dosyadan okuma. |Asya Bakıcı - 202507012042
 
-2.Modül: Bağlı liste tabanlı yığın (Stack: Push, Pop, Peek) ve kuyruk (Queue: Enqueue, Dequeue, FIFO listeleme). | Efehan Moral - 202507012146
+2.Modül: Efehan Moral - 202507012146 | Bağlı liste tabanlı yığın (Stack: Push, Pop, Peek) ve kuyruk (Queue: Enqueue, Dequeue, FIFO listeleme). 
 
 3.Modül: Nisa Çiloğlu-202507012147: Dizi üzerinde Bubble Sort, Insertion Sort, Quick Sort ve Binary Search. 
 
