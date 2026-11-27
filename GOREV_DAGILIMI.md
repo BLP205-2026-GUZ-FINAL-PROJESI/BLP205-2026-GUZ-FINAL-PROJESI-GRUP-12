@@ -1,7 +1,14 @@
-1.Modül: Asya Bakıcı - 202507012042:  Çift yönlü doğrusal bağlı liste,tek yönlü dairesel bağlı liste, dosyaya yazma ve dosyadan okuma.
+# GÖREV DAĞILIMI
 
-2.Modül: Efehan Moral - 202507012146: Bağlı liste tabanlı yığın (Stack: Push, Pop, Peek) ve kuyruk (Queue: Enqueue, Dequeue, FIFO listeleme). 
+**Ders:** BLP 205 - Veri Yapıları | **Grup:** 12 | **Dönem:** 2026-2027 Güz
 
-3.Modül: Nisa Çiloğlu-202507012147: Dizi üzerinde Bubble Sort, Insertion Sort, Quick Sort ve Binary Search. 
+## 1. Grup Üyeleri ve Ana Sorumluluklar
 
-4.Modül: Grafın komşuluk matrisiyle tutulması, BFS, DFS ve Dijkstra ile en kısa kampüs rotasının bulunması. | Ali Jiyan Aydar - 202507012170 
+| No | Ad-Soyad | Öğrenci No | GitHub Hesabı | Ana Sorumluluk |
+|----|----------|------------|---------------|----------------|
+| 1 | Asya Bakıcı | 202507012042 | sybkc | Modül 1: Çift yönlü doğrusal bağlı liste (kitap kataloğu), tek yönlü dairesel bağlı liste (duyurular), dosyaya yazma ve dosyadan okuma |
+| 2 | Efehan Moral | 202507012146 | Efehanmorall | Modül 2: Bağlı liste tabanlı yığın (Stack) ve kuyruk (Queue) |
+| 3 | Nisa Çiloğlu | 202507012147 | Nisacilogluu | Modül 3: Bubble Sort, Insertion Sort, Quick Sort ve Binary Search |
+| 4 | Ali Jiyan Aydar | 202507012170 | JiyanAydar | Modül 4: Graf (komşuluk matrisi), BFS, DFS ve Dijkstra ile en kısa kampüs rotası |
+
+
