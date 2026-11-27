@@ -7,7 +7,7 @@
 | No | Ad-Soyad | Öğrenci No | Ana Sorumluluk | Yazdığı Fonksiyonlar / Dosyalar | Test Ettiği Bölümler | Ortak Çalışmalar |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Asya Bakıcı | 202507012042 | Modül 1: Çift yönlü doğrusal bağlı liste (kitap kataloğu), tek yönlü dairesel bağlı liste (duyurular), dosyaya yazma ve dosyadan okuma | | | |
-| 2 | Efehan Moral | 202507012146 | Modül 2: Bağlı liste tabanlı yığın (Stack) ve kuyruk (Queue) | | | |
+| 2 | Efehan Moral | 202507012146 | Modül 2: Bağlı liste tabanlı yığın (Stack) ve kuyruk (Queue) | modul2.h, modul2.cpp (bagli liste tabanli Stack/LIFO ve Queue/FIFO veri yapilari, push/pop/peek, enqueue/dequeue/listeleme ve bellek temizligi) | Bos yigin/kuyruk durumlari, LIFO/FIFO sirasi, gecersiz/eksik giris kontrolleri ve bagimsiz calisma testi | |
 | 3 | Nisa Çiloğlu | 202507012147 | Modül 3: Bubble Sort, Insertion Sort, Quick Sort ve Binary Search | | | |
 | 4 | Ali Jiyan Aydar | 202507012170 | Modül 4: Graf (komşuluk matrisi), BFS, DFS ve Dijkstra ile en kısa kampüs rotası | | | |
 
