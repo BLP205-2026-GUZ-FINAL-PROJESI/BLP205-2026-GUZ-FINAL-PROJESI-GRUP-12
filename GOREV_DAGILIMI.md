@@ -8,7 +8,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Asya Bakıcı | 202507012042 | Modül 1: Çift yönlü doğrusal bağlı liste (kitap kataloğu), tek yönlü dairesel bağlı liste (duyurular), dosyaya yazma ve dosyadan okuma | | | |
 | 2 | Efehan Moral | 202507012146 | Modül 2: Bağlı liste tabanlı yığın (Stack) ve kuyruk (Queue) | modul2.h, modul2.cpp (bagli liste tabanli Stack/LIFO ve Queue/FIFO veri yapilari, push/pop/peek, enqueue/dequeue/listeleme ve bellek temizligi) | | |
-| 3 | Nisa Çiloğlu | 202507012147 | Modül 3: Bubble Sort, Insertion Sort, Quick Sort ve Binary Search | | | |
+| 3 | Nisa Çiloğlu | 202507012147 | Modül 3: Bubble Sort, Insertion Sort, Quick Sort ve Binary Search |modul3.h, modul3.cpp (bagli listeden dinamik diziye aktarma, sayfa sayisina gore Bubble ve Insertion Sort, ID'ye gore Quick Sort ve Binary Search) | | |
 | 4 | Ali Jiyan Aydar | 202507012170 | Modül 4: Graf (komşuluk matrisi), BFS, DFS ve Dijkstra ile en kısa kampüs rotası | | | |
 
 Test ettiği bölümler ve ortak çalışmalar ilerleyen zamanlarda eklenecektir.
